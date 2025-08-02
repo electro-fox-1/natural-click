@@ -1,2 +1,2 @@
-# cookie-clicker
-c'est une version sous forme mobile je ne veux pas de probleme avec cookie clicker le site
+# cookie-clicker by electro-fox
+voici mon petit jeu simple qui ne veut aucun problème à personne
